@@ -1,0 +1,10 @@
+C:\Users\mrvolta\Desktop\Risha_Controller_V4.0-master\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\mrvolta\Desktop\Risha_Controller_V4.0-master\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\mrvolta\Desktop\Risha_Controller_V4.0-master\Paint\Paint\bin\Debug\RulerControl.dll
+C:\Users\mrvolta\Desktop\Risha_Controller_V4.0-master\Paint\Paint\bin\Debug\RulerControl.pdb
+C:\Users\mrvolta\Desktop\Risha_Controller_V4.0-master\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\mrvolta\Desktop\Risha_Controller_V4.0-master\Paint\Paint\obj\Debug\Paint.MainForm.resources
+C:\Users\mrvolta\Desktop\Risha_Controller_V4.0-master\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\mrvolta\Desktop\Risha_Controller_V4.0-master\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\mrvolta\Desktop\Risha_Controller_V4.0-master\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\mrvolta\Desktop\Risha_Controller_V4.0-master\Paint\Paint\obj\Debug\Paint.pdb
